@@ -30,6 +30,7 @@ header {
     padding: 20px;
     display: flex;
     align-items: center;
+    background-color: #000000;
     }
     
     /* Estilização para o parágrafo (p) dentro do corpo */
