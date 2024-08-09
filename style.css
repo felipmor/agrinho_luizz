@@ -1,6 +1,6 @@
 /* Estilização para o cabeçalho (header) */
 header {
-    background-color: #000000;
+    background-color: #f0f0f0;
     padding: 10px;
     text-align: center;
     margin: 0%;
@@ -20,7 +20,7 @@ header {
     
     /* Estilização para o body (cor de fundo ) */
     body {
-    background-color: rgb(53, 145, 145);
+    background-color: rgb(31, 31, 31);
     }
     
     /* Estilização para o corpo principal (main) */
@@ -30,7 +30,6 @@ header {
     padding: 20px;
     display: flex;
     align-items: center;
-    background-color: rgb(116, 122, 122);
     }
     
     /* Estilização para o parágrafo (p) dentro do corpo */
